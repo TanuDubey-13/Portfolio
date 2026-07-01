@@ -6,6 +6,18 @@ Welcome to my personal portfolio website! This portfolio showcases my skills, pr
 
 👉  https://tanudubey-13.github.io/Portfolio/
 
+## 📁 Project Structure
+
+```text
+Portfolio/
+├── assets/
+│   ├── resume.pdf
+├── image.png
+├── index.html
+├── README.md
+├── script.js
+└── style.css
+```
 
 
 ## 📌 Features
