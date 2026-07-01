@@ -190,10 +190,6 @@ contactForm.addEventListener("submit", function (e) {
 
         email: document.getElementById("email").value,
 
-        // subject: document.getElementById("subject").value,
-
-        // phone: document.getElementById("phone").value,
-
         message: document.getElementById("message").value
 
     })
@@ -206,13 +202,7 @@ contactForm.addEventListener("submit", function (e) {
 
     })
 
-    // .catch(function (error) {
-
-    //     alert("❌ Failed to send message!");
-
-    //     console.log(error);
-
-    // });
+  
     .catch((error) => {
 
     console.log("EmailJS Error:", error);
