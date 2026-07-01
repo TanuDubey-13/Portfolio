@@ -1,12 +1,10 @@
-# Portfolio
-Personal portfolio website showcasing my skills, projects, resume, and contact information with EmailJS integration.
 # 🌐 Tanu Dubey | Portfolio
 
 Welcome to my personal portfolio website! This portfolio showcases my skills, projects, education, and contact information. It is designed to provide recruiters and developers with a quick overview of my work and technical abilities.
 
 ## 🚀 Live Demo
 
-👉 https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/
+👉  https://tanudubey-13.github.io/Portfolio/
 
 
 
